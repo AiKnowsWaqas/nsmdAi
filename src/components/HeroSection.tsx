@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Bot, ChevronDown } from 'lucide-react';
@@ -14,7 +13,7 @@ const HeroSection = () => {
 
   return (
     <motion.div 
-      className="relative flex flex-col items-center justify-center min-h-screen py-24 pt-32 px-4 overflow-hidden"
+      className="relative flex flex-col items-center justify-center min-h-screen py-24 pt-32 px-4 overflow-hidden bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-blue-900/10 via-transparent to-transparent"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.8 }}

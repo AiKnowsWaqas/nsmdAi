@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Bot, ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
@@ -47,7 +46,20 @@ const AICard: React.FC<AICardProps> = ({
                 className="w-8 h-8 object-contain" 
               />
             </motion.div>
-            <h3 className="text-xl font-bold text-white">{aiName}</h3>
+            <div className="flex items-center gap-3">
+              <h3 className="text-xl font-bold text-white">{aiName}</h3>
+              {externalUrl && (
+                <motion.a
+                  href={externalUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-center p-2 rounded-full bg-blue-600/20 hover:bg-blue-600/30 transition-colors"
+                  whileHover={{ scale: 1.1 }}
+                >
+                  <ExternalLink size={16} className="text-blue-400" />
+                </motion.a>
+              )}
+            </div>
           </div>
           
           <p className="text-gray-300 mb-6 text-lg">{summary}</p>
