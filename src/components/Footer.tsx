@@ -69,7 +69,7 @@ const Footer = () => {
           viewport={{ once: true }}
           transition={{ delay: 0.3 }}
         >
-          <p>© {new Date().getFullYear()} AI Mirror Project. All AI-generated content reflects only what AI systems have learned from public data.</p>
+          <p>© {new Date().getFullYear()} © 2025 Waqas (nsmdwaqas). All rights reserved.</p>
         </motion.div>
       </div>
     </footer>
