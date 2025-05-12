@@ -53,7 +53,7 @@ const HeroSection = () => {
               animate={animationVariants.pulse}
             />
             <img 
-              src="/lovable-uploads/234e2824-860e-4e3f-adec-abd3b3a96e7f.png" 
+              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrWB3XrsLROtZv1ezFGW04-YFWGWBFBNOFSK0EAm_pOfgMls3pha8TJxGaHNgJyg-G7G5jXG3fficZkqlpaLS-Fslua7F9xcNCo-mTxSdj6sIDdjz61MGEHd4VCzO4f28UbNwE7nN395CPoqiBDXqaFAYTVzTWv8JHEu2hyZedFGUWvA5MBV1EiNTB81X-/s632/waqas%20graded.jpg" 
               alt="Waqas Profile" 
               className="rounded-full w-48 h-48 md:w-64 md:h-64 object-cover relative z-10"
             />
