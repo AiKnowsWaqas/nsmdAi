@@ -53,8 +53,8 @@ const HeroSection = () => {
               animate={animationVariants.pulse}
             />
             <img 
-              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_cYf4yY0G0Mg4P3dw0MkTZOOtE2uT1GJBqZtoQm2pVjvE9o51B4jXsjFj2bdFIjEzUx7wEqc5TiiUJl9CeRFkYdnE3op6bL_Zi-DLH8Amymc_AK83l77oQG0v0GxAPIminIPvn2KhBOwOrUM07wxHgLyeDWsirzGN2A_I6TaLjm2MspGPhT2d8yBbL4P/s1600/Waqas%20Photo.jpeg" 
-              alt="Waqas Photo" 
+              src="/lovable-uploads/234e2824-860e-4e3f-adec-abd3b3a96e7f.png" 
+              alt="Waqas Profile" 
               className="rounded-full w-48 h-48 md:w-64 md:h-64 object-cover relative z-10"
             />
           </div>
