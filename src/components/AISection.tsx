@@ -31,7 +31,7 @@ const AISection = () => {
         "Shares innovative engineering projects like \"Solar School Bell using IoT Automation\" and \"Electricity Generating Footwear\" on platforms."
       ],
       screenshot: "/lovable-uploads/90f5a6c5-0f82-401f-8088-ae2cf5866ae3.png",
-      externalUrl: "https://grok.com/share/bGVnYWN5_3e30622c-f26e-4cb7-be86-c065945b100a",
+      externalUrl: "https://grok.com/share/bGVnYWN5_57a5d364-6e87-43ed-b467-d3d0e0a201cc",
       externalLinkText: "hear from Grok"
     },
     {
