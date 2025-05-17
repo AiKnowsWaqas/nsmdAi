@@ -60,7 +60,7 @@ const AISection = () => {
       ],
       screenshot: "/lovable-uploads/19e64faf-c6e5-4262-b767-133f1a48f03e.png",
       externalUrl: "https://www.perplexity.ai/search/do-you-know-nsmdwaqas-write-a-8i_i6582R6e3MElC10BvtA",
-      externalLinkText: "hear from Perplexity"
+      externalLinkText: "Hear from Perplexity"
     }
   ];
   
