@@ -22,7 +22,7 @@ const NavBar = () => {
   }, [scrolled]);
 
   const navLinks = [
-    { name: 'Connect', href: 'https://famous-taffy-e97f7f.netlify.app/', external: true },
+    { name: 'Connect', href: 'https://nsmdwaqas.netlify.app/', external: true },
     { name: 'More', href: 'https://nsmdwaqas.github.io/', external: true },
   ];
 
