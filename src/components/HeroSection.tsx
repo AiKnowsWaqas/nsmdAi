@@ -80,8 +80,7 @@ const HeroSection = () => {
             Through the Eyes of <span className="text-white font-bold">Artificial Intelligence</span>
           </p>
           <p className="text-gray-400 text-lg mb-8">
-            Welcome to this AI-powered profile that showcases different AI's perspectives 
-            on who Waqas is. Explore what major AI systems have learned about his skills, 
+            Explore what major AI systems have learned about his skills, 
             background, and online presence.
           </p>
           <motion.button 
