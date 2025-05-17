@@ -46,7 +46,7 @@ const AISection = () => {
       ],
       screenshot: "/lovable-uploads/b2edaf92-a236-48f8-b42a-041249610a20.png",
       externalUrl: "https://g.co/gemini/share/a8ae7c41f898",
-      externalLinkText: "hear from Gemini"
+      externalLinkText: "Hear from Gemini"
     },
     {
       aiName: "Perplexity",
