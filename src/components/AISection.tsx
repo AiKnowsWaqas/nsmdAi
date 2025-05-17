@@ -18,7 +18,7 @@ const AISection = () => {
       ],
       screenshot: "/lovable-uploads/08176041-7c58-42c2-b499-b43c1f2aea09.png",
       externalUrl: "https://chatgpt.com/share/681a5d14-bf40-8006-8100-ebe7eaa72073",
-      externalLinkText: "hear from GPT"
+      externalLinkText: "Hear from GPT"
     },
     {
       aiName: "Grok",
@@ -32,7 +32,7 @@ const AISection = () => {
       ],
       screenshot: "/lovable-uploads/90f5a6c5-0f82-401f-8088-ae2cf5866ae3.png",
       externalUrl: "https://grok.com/share/bGVnYWN5_57a5d364-6e87-43ed-b467-d3d0e0a201cc",
-      externalLinkText: "hear from Grok"
+      externalLinkText: "Hear from Grok"
     },
     {
       aiName: "Gemini",
