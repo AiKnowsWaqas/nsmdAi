@@ -59,7 +59,7 @@ const AISection = () => {
         "Educational content creator sharing insights on topics like globalization and rural marketing through platforms like SlideShare and blog."
       ],
       screenshot: "/lovable-uploads/19e64faf-c6e5-4262-b767-133f1a48f03e.png",
-      externalUrl: "https://g.co/gemini/share/9c4ed8be4e19",
+      externalUrl: "https://www.perplexity.ai/search/cd0efdc5-d63f-4c0a-8cd1-d57f91ac9eac#0",
       externalLinkText: "Hear from Perplexity"
     }
   ];
