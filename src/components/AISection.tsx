@@ -45,7 +45,7 @@ const AISection = () => {
         "Active across multiple online communities including Samsung forums, Amazon reviews, and Instructables with interests in technology innovation."
       ],
       screenshot: "/lovable-uploads/b2edaf92-a236-48f8-b42a-041249610a20.png",
-      externalUrl: "https://g.co/gemini/share/c6218c428b88",
+      externalUrl: "https://g.co/gemini/share/9c4ed8be4e19",
       externalLinkText: "Hear from Gemini"
     },
     {
